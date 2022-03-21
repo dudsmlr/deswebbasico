@@ -1,0 +1,30 @@
+/*este é meu arquivo css*/
+
+h1{
+	font-size: 50pt;
+	font-family: arial;
+	color: red;
+	background-color: #F5E26E;
+	text-align: center;
+	padding:30px ;
+	margin: 30px;
+}
+
+tr{
+	font-size: 10pt;
+	font-family: arial;
+	color: black;
+	text-align: center;
+}
+
+p.destaque{
+	font-size: 15pt;
+	font-family: arial;
+	color: green;
+}
+
+p.pequeno{
+	font-size: 10pt;
+	font-family: arial;
+	color: purple;
+}
