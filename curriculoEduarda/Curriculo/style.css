@@ -1,0 +1,90 @@
+article {
+	width: 450px;
+	text-align: center;
+	display: flex;
+	margin: 50px auto;
+}
+
+header {
+	width: 700px;
+	text-align: center;
+}
+
+img {
+	width: 150px;
+
+}
+
+.curriculo {
+	width: 100px;
+}
+
+body {
+	background-color: #dae681;
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	text-align: center;
+}
+
+.apresentacao {
+	vertical-align: 20px;
+	display: inline-block;
+	vertical-align: top;
+	background-color: #FFFFFF;
+}
+
+h3 {
+	font-size: 15px;
+	text-align: center;
+	margin: left;
+	padding: 5px;
+
+}
+
+ul {
+	color: #cc72543;
+	padding-left: 15px;
+	margin: left;
+
+}
+
+#menu {
+	list-style: none;
+	padding: 0%;
+	background-color: #95a868;
+
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu li a {}
+
+.perfil {
+	text-align: center;
+	width: 500px;
+	margin: auto;
+	background-color: #ffffff9;
+}
+
+* {
+	margin: auto;
+	padding: 0%;
+	box-sizing: border-box;
+}
+
+
+.content {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	width: 100%;
+}
+
+.card {
+	background-color: #95a879;
+	border: 20px;
+	box-shadow: 8px 3px 23px #95a868;
+}
